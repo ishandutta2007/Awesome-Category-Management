@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Category-Management?style=flat-square&color=gold" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Category-Management?style=flat-square&color=gold" alt="GitHub_Stars"/>
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Category-Management?style=flat-square&color=blue" alt="GitHub Forks"/>
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Category-Management?style=flat-square" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/>
@@ -55,9 +55,9 @@ The table below highlights enterprise category management, shelf space optimizat
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source repositories for retail space planning, MILP shelf allocation, SKU choice modeling, and Product Information Management (PIM). Sorted by **GitHub Star Count (Descending)**.
+Curated open-source repositories for retail space planning, MILP shelf allocation, SKU choice modeling, and Product Information Management (PIM). Sorted by **GitHub Stars_Count (Descending)**.
 
-| Open-Source Project | Description | GitHub Stars | Primary Tech Stack | License |
+| Open-Source Project | Description | GitHub_Stars | Primary Tech Stack | License |
 | :--- | :--- | :--- | :--- | :--- |
 | **[GoJS](https://github.com/NorthwoodsSoftware/GoJS)** | Feature-rich JavaScript diagramming library with built-in planogram layout engine for drag-and-drop retail shelf design. | [![GoJS Stars](https://img.shields.io/github/stars/NorthwoodsSoftware/GoJS?style=social&color=white)](https://github.com/NorthwoodsSoftware/GoJS/stargazers) | JavaScript / TypeScript | Commercial / Free Trial |
 | **[AtroPIM](https://github.com/atrocore/atropim)** | Configurable modular Product Information Management (PIM) system for managing complex category trees, product attributes, and channel catalogs. | [![AtroPIM Stars](https://img.shields.io/github/stars/atrocore/atropim?style=social&color=white)](https://github.com/atrocore/atropim/stargazers) | PHP / Vue.js | GPL-3.0 |
